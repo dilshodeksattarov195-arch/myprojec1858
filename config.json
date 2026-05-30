@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routeruender",
+        "uuid": 10586884,
+        "checksum": "hbmv0s"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
